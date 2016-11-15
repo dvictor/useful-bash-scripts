@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# crontab -e
+# 10 * * * * /home/victor/bin/clean-downloads.sh
+
 DIR=/home/victor/Downloads
 DAYS=30
 
